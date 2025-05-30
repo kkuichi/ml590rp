@@ -31,6 +31,6 @@ There is a few key concepts in this project  .
 
 * **Authentication** - authentication in this project is being handled by library `next-auth` , in this project there are both credentials sign in and OAuth2.0 with Google and GitHub
 
-* **Business logic** - business logic is related to retrospective creation and mostly it`s the Drag and drop functionality and a lot of forms .
+* **Business logic** - business logic is related to retrospective creation and mostly it's the Drag and drop functionality and a lot of forms .
 
 * **Database** - NoSQL database `MongoDB` is used for this project in pair with a driver called `mongoose` . To initiate DB connection there is a function connectDB in this project
