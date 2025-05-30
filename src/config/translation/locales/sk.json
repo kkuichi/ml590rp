@@ -1,0 +1,115 @@
+{
+  "landingPage": {
+    "title1": "Najlepší spôsob, ako vytvárať a spravovať",
+    "title2": "retrospektívy",
+    "subtitle": "Vytvorte retrospektívy pomocou metódy Sailboat a ďalších metód, zdieľajte ich so svojím tímom alebo učiteľom, sledujte štatistiky a vytvorte vlastné metódy na tvorbu retrospektív",
+    "start": "Začať",
+    "learnMore": "Zistiť viac",
+    "signUp": "Zaregistrovať sa",
+    "signIn": "Prihlásiť sa"
+  },
+  "signinPage": {
+    "title": "Vitajte v Agili",
+    "subtitle": "Prihláste sa do aplikácie pomocou",
+    "sudjest": "Nemáte účet? Registrácia"
+  },
+  "registrationPage": {
+    "title": "Vitajte v Agili",
+    "subtitle": "Registrácia do aplikácie",
+    "sudjest": "Máte už účet? Prihláste sa"
+  },
+  "pages": {
+    "dashboard": {
+      "title": "Nástenka",
+      "noRetrospectives": "Žiadne retrospektívy zatiaľ",
+      "headings": {
+        "prevRetrospectives": "Predchádzajúce retrospektívy",
+        "supervisedRetrospectives": "Posledné dohliadané retrospektívy"
+      }
+    },
+    "retrospectives": {
+      "title": "Retrospektívy",
+      "sailboat": {
+        "goals": "Ciele",
+        "forces": "Sily",
+        "obstacles": "Prekážky",
+        "threats": "Hrozby",
+        "motivation": "Motivácia"
+      },
+      "createRetrospectiveModal": {
+        "title": "Vytvoriť retrospektívu"
+      }
+    },
+    "retrospectiveDetails": {
+      "title": "Detaily retrospektívy",
+      "members": "Členovia",
+      "noMembers": "Žiadni členovia",
+      "supervisors": "Dohliadatelia",
+      "noSupervisors": "Žiadni dohliadatelia",
+      "comments": "Komentáre",
+      "noComments": "Žiadne komentáre",
+      "generalInfo": "Všeobecné informácie",
+      "attachments": "Prílohy"
+    },
+    "supervise": {
+      "noRetrospectives": "Ešte ste neboli pridaní do žiadnej retrospektívy. Požiadajte autorov alebo členov retrospektív, aby vás pridali ako dohliadateľa"
+    }
+  },
+  "forms": {
+    "title": "Titul",
+    "placeholders": {
+      "empty": "Napíšte sem...",
+      "title": "Titul",
+      "description": "Popis",
+      "email": "Email",
+      "password": "Heslo",
+      "confirmPassword": "Potvrdiť heslo"
+    },
+    "errors": {
+      "mandatory": "Toto pole je povinné"
+    }
+  },
+  "actions": {
+    "signout": "Odhlásiť sa",
+    "create": "Vytvoriť",
+    "confirm": "Potvrdiť",
+    "cancel": "Zrušiť",
+    "viewAll": "Zobraziť všetky",
+    "add": "Pridať",
+    "delete": "Vymazať",
+    "edit": "Upraviť",
+    "save": "Uložiť",
+    "duplicate": "Duplikovať",
+    "registration": "Registrácia",
+    "retrospective": {
+      "created": "Úspešne ste vytvorili retrospektívu",
+      "deleted": "Úspešne ste vymazali retrospektívu",
+      "error": {
+        "fetching": "Pri získavaní retrospektív došlo k chybe",
+        "deleting": "Pri mazaní retrospektívy došlo k chybe",
+        "creating": "Pri vytváraní retrospektívy došlo k chybe"
+      }
+    }
+  },
+  "common": {
+    "title": "Titul",
+    "email": "Email",
+    "author": "Autor",
+    "description": "Popis",
+    "creationDate": "Dátum vytvorenia",
+    "lastUpdate": "Posledná aktualizácia",
+    "noDescription": "Bez popisu",
+    "notCompleted": "Nedokončené",
+    "noResults": "Žiadne výsledky",
+    "loading": "Načítavanie...",
+    "language": "Jazyk",
+    "profile": "Profil",
+    "theme": "Téma",
+    "you": "Vy"
+  },
+  "errors": {
+    "error": "Niečo sa pokazilo",
+    "tryAgain": "Skúste to znova",
+    "goHome": "Prejsť na hlavnú stránku"
+  }
+}

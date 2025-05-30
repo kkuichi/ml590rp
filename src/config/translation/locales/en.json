@@ -1,0 +1,115 @@
+{
+  "landingPage": {
+    "title1": "The best way to create and manage",
+    "title2": "retrospectives",
+    "subtitle": "Create retrospectives with Sailboat and other methods ,share with your team or teacher ,track statistics and create your own methods for creating retrospectives",
+    "start": "Start",
+    "learnMore": "Learn more",
+    "signUp": "Sign up",
+    "signIn": "Sign in"
+  },
+  "signinPage": {
+    "title": "Welcome to Agili",
+    "subtitle": "Sign in to application with",
+    "sudjest": "Don't have an account ? Registration"
+  },
+  "registrationPage": {
+    "title": "Welcome to Agili",
+    "subtitle": "Registration to application",
+    "sudjest": "Already have an account ? Sign in"
+  },
+  "pages": {
+    "dashboard": {
+      "title": "Dashboard",
+      "noRetrospectives": "No retrospectives yet",
+      "headings": {
+        "prevRetrospectives": "Previous retrospectives",
+        "supervisedRetrospectives": "Last supervised retrospectives"
+      }
+    },
+    "retrospectives": {
+      "title": "Retrospectives",
+      "sailboat": {
+        "goals": "Goals",
+        "forces": "Forces",
+        "obstacles": "Obstacles",
+        "threats": "Threats",
+        "motivation": "Motivation"
+      },
+      "createRetrospectiveModal": {
+        "title": "Create retrospective"
+      }
+    },
+    "retrospectiveDetails": {
+      "title": "Retrospective details",
+      "members": "Members",
+      "noMembers": "No members",
+      "supervisors": "Supervisors",
+      "noSupervisors": "No supervisors",
+      "comments": "Comments",
+      "noComments": "No comments",
+      "generalInfo": "General information",
+      "attachments": "Attachments"
+    },
+    "supervise": {
+      "noRetrospectives": "You haven't been added to any retrospective yet. Ask authors or members of the retrospectives to add you as supervisor"
+    }
+  },
+  "forms": {
+    "title": "Title",
+    "placeholders": {
+      "empty": "Type here...",
+      "title": "Title",
+      "description": "Description",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password"
+    },
+    "errors": {
+      "mandatory": "This field is mandatory"
+    }
+  },
+  "actions": {
+    "signout": "Sign out",
+    "create": "Create",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "viewAll": "View all",
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "duplicate": "Duplicate",
+    "registration": "Registration",
+    "retrospective": {
+      "created": "You have successfuly created a retrospective",
+      "deleted": "You have successfuly deleted a retrospective",
+      "error": {
+        "fetching": "An error occured fetching retrospectives",
+        "deleting": "An error occured deleting retrospective",
+        "creating": "An error occured creating retrospective"
+      }
+    }
+  },
+  "common": {
+    "title": "Title",
+    "email": "Email",
+    "author": "Author",
+    "description": "Description",
+    "creationDate": "Creation date",
+    "lastUpdate": "Last update",
+    "noDescription": "No description",
+    "notCompleted": "Not completed",
+    "noResults": "No results",
+    "loading": "Loading...",
+    "language": "Language",
+    "profile": "Profile",
+    "theme": "Theme",
+    "you": "You"
+  },
+  "errors": {
+    "error": "Something went wrong",
+    "tryAgain": "Try again",
+    "goHome": "Go to main page"
+  }
+}

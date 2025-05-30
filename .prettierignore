@@ -1,0 +1,13 @@
+node_modules
+.next
+dist
+out
+
+package-lock.json
+pnpm-lock.yaml
+
+.eslintrc.json
+tsconfig.json
+
+public
+coverage
